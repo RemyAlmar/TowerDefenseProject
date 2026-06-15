@@ -19,6 +19,6 @@ MonoBehaviour:
       isEmpty: 0
       isBuildable: 1
     renderSettings:
-      mesh: {fileID: 0}
+      mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
       material: {fileID: 0}
       color: {r: 0.13916562, g: 0.6226415, b: 0.0734247, a: 1}
